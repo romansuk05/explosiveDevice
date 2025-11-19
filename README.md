@@ -2,4 +2,4 @@ Arduino software for explosive device like in CS:GO. There is one bug with timer
 
 I was building it on Arduino Pro Mini (cuz who needs a USB xD), TFT display and 3×4 keypad. At the end it was like:
 
-<img width="925" height="1233" alt="image" src="https://github.com/user-attachments/assets/1d36fa58-f203-465f-aa86-272af28fe88e" />
+<img width="740" height="987" alt="image" src="https://github.com/user-attachments/assets/1d36fa58-f203-465f-aa86-272af28fe88e" />
