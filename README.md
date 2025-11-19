@@ -1,1 +1,1 @@
-Arduino software for explosive device like in CS:GO. There is one bug with timer. If you are going to use it, change ```delay() ``` to ```millis()```. I did not know about this feature when I was building it on highschool xD Sorry mate. GL&HF on airsoft battlefield
+Arduino software for explosive device like in CS:GO. There is one bug with timer. If you are going to use it, change ```delay()``` to ```millis()```. I did not know about this feature when I was building it on highschool xD Sorry mate. GL&HF on airsoft battlefield
